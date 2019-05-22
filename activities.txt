@@ -5,3 +5,6 @@
 13/05: virtual participant in CF #559 (2h)
 15/05: virtual participant in CF #558 (2h)
 21/04: upsolving for CF #558, problem C (1h)
+22/04: virtual participant in CF #561 (2h)
+
+Total hours: 15
