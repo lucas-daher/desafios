@@ -7,5 +7,7 @@
 21/04: upsolving for CF #558, problem C (1h)
 22/04: virtual participant in CF #561 (2h)
 24/04: virtual participant in CF #551 + upsolving problem C (2,5h)
+25/04: watched advanced dfs algorithms class pt. 1: https://youtu.be/__66kfWUWtE (1h)
+26/04: participated in university qualifying contest (3,5h)
 
-Total hours: 17,5h
+Total hours: 22h
