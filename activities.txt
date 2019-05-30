@@ -11,5 +11,6 @@
 26/04: participated in university qualifying contest (3,5h)
 27/04: watched advanced dfs algorithms class pt. 2: https://youtu.be/_Z9r_6Yqr-E (1h)
 27-29/04: upsolving for university qualifying contest (4h)
+30/04: solved union find problems (1,5h)
 
-Total hours: 28h
+Total hours: 29,5h
