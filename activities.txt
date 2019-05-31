@@ -13,4 +13,4 @@
 27-29/04: upsolving for university qualifying contest (4h)
 30/04: solved union find problems (4h)
 
-Total hours: 32h
+Total hours: 31h
