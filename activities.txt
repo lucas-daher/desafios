@@ -14,5 +14,6 @@
 30/05: solved union find problems (4h)
 02/06: solved union find problems (1,5h)
 05/06: solved advanced dfs problems (2h)
-
-Total hours: 34,5h
+11-12/06: tried to solve advanced dfs problems (12h)
+13/06: virtual participant in CF #566 (2h)
+Total hours: 48,5h
