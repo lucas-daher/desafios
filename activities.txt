@@ -16,4 +16,6 @@
 05/06: solved advanced dfs problems (2h)
 11-12/06: tried to solve advanced dfs problems (12h)
 13/06: virtual participant in CF #566 (2h)
-Total hours: 48,5h
+15/06: virtual participant in CF #564 (2h)
+15/06: upsolving for CF #565, problem D (1h)
+Total hours: 51,5h
