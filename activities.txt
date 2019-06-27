@@ -21,5 +21,7 @@
 20/06: virtual participant in CF #567 (2h)
 21-22/06: upsolving for CF #567, problems C and D (4h)
 23/06: watched segtree class: https://youtu.be/jK2RK4L4jM8 (1h)
-30/05: solved segtree problems (3h)
-Total hours: 61,5h
+24/06: solved segtree problems (3h)
+26/06: solved more segtree problems (4h)
+
+Total hours: 65,5h
