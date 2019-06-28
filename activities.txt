@@ -23,5 +23,6 @@
 23/06: watched segtree class: https://youtu.be/jK2RK4L4jM8 (1h)
 24/06: solved segtree problems (3h)
 26/06: solved more segtree problems (4h)
+27/06: solved more segtree problems (4h)
 
-Total hours: 65,5h
+Total hours: 69,5h
