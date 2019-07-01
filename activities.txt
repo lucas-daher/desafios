@@ -24,5 +24,7 @@
 24/06: solved segtree problems (3h)
 26/06: solved more segtree problems (4h)
 27/06: solved more segtree problems (5h)
-
-Total hours: 70,5h
+30/06: solved last of segtree problems (4h)
+30/06: virtual participant in CF #571 (2h)
+01/07: upsolving for CF #571, problem C (1h)
+Total hours: 77,5h
