@@ -32,5 +32,7 @@
 01/07: virtual participant in CF #568 (2,25h)
 01/07: upsolving for CF #568, problem D (2h)
 02/07: virtual participant in CF #563 (2h)
-02/07: upsolving for CF #568, problems B and D (2h)
-Total hours: 89h
+02/07: upsolving for CF #563, problems B and D (2h)
+03/07: virtual participant in CF #562 (2h)
+04/07: upsolving for CF #562, problem C (2h)
+Total hours: 93h
